@@ -3,5 +3,5 @@ Textures are subject to change in the future.
 Tall grass: https://www.dlf.pt/ddetail/hwbJox_tall-grass-texture-png-transparent-png/
 Short grass: https://www.pngitem.com/middle/hmRJhbh_drawn-texture-grass-transparent-grass-png-texture-png/
 Dirt: https://stock.adobe.com/si/search?k=seamless%20dirt%20texture
-Lava: https://cc0textures.com/view?id=LavaSubstance001
+Obsidian: https://www.filterforge.com/filters/10458-v4.html
 
