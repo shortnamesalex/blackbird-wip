@@ -1,7 +1,8 @@
-Textures are subject to change in the future.
+SOME TEXTURES IN THIS RESOURCE PACK ARENT MADE BY ME.
+CREDIT GOES TO THE SOURCES LINKED DOWN BELOW.
 
 Tall grass: https://www.dlf.pt/ddetail/hwbJox_tall-grass-texture-png-transparent-png/
 Short grass: https://www.pngitem.com/middle/hmRJhbh_drawn-texture-grass-transparent-grass-png-texture-png/
 Dirt: https://stock.adobe.com/si/search?k=seamless%20dirt%20texture
 Obsidian: https://www.filterforge.com/filters/10458-v4.html
-
+Oak and Dark Oak leaves: https://source.substance3d.com/allassets/c2524f69866eed5bee4a1bcc9e81074e5f9e8467?free=true
